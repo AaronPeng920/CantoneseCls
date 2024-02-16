@@ -24,7 +24,7 @@
 ## 训练模型
 
 ```python
-conda activate cantls
+conda activate cantcls
 python3 train.py
 ```
 
