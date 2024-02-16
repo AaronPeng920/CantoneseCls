@@ -24,7 +24,8 @@
 ## 训练模型
 
 ```python
+conda activate cantls
 python3 train.py
 ```
 
-即可对模型进行训练。
+在服务器上已经创建好了可用的环境 `cantcls`, 执行上述代码即可对模型进行训练。
