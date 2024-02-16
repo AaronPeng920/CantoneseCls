@@ -13,7 +13,7 @@ class CoGCNet(pl.LightningModule):
         self.params = params
         self.criterion = nn.CrossEntropyLoss()
         
-        # self.save_hyperparameters()
+        self.save_hyperparameters()
         
     def training_step(self, batch, batch_idx):
         spectrograms, labels = batch
