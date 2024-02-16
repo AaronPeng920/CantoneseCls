@@ -2,7 +2,7 @@
 
 该项目基于论文 [The Sustainable Development of Intangible Cultural Heritage with AI: Cantonese Opera Singing Genre Classification Based on CoGCNet Model in China](https://www.mdpi.com/2071-1050/14/5/2923) 进行复现，对原论文中的模型进行了少量的修改。
 
-![image-20240216214146172](/Users/aaronpeng/Library/Application Support/typora-user-images/image-20240216214146172.png)
+![figure](assets/figure.png)
 
 ## 数据准备和处理
 
